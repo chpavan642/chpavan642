@@ -4,7 +4,7 @@
 
 <br>
 
-- 🌱 I’m currently learning **Javascript, React, SpringBoot**.
+- 🌱 I’m currently learning **Javascript, React, SpringBoot**, **Gen Ai**, **Ai Agents**.
 
 - 💬 Ask me about **Java, AWS Services, Linux**.
 
